@@ -1,0 +1,141 @@
+SetLocation set my location to {Shanghai|location}
+SetLocation my location is {Shanghai|location}
+SetLocation my location is {Shanghai|location}
+SetLocation {Shanghai|location} is my location
+SetLocation Im currently in {Shanghai|location}
+SetLocation Im currently at {Shanghai|location}
+SetLocation Im in {Shanghai|location}
+SetLocation I am in {Shanghai|location}
+SetLocation I live in {Shanghai|location}
+SetLocation I live at {Shanghai|location}
+SetLocation Im located at {Shanghai|location}
+SetLocation I am located at {Shanghai|location}
+
+Forecast forecast
+Forecast weather in {Shanghai|location}
+Forecast about the weather in {Shanghai|location}
+Forecast for the weather in {Shanghai|location}
+Forecast what the weather is like in {Shanghai|location}
+Forecast what the weathers like in {Shanghai|location}
+Forecast what the weather is like in {Shanghai|location}
+Forecast what its like in {Shanghai|location}
+Forecast what its like right now in {Shanghai|location}
+Forecast what is the weather in {Shanghai|location}
+Forecast what the weather is in {Shanghai|location}
+Forecast what the conditions are in {Shanghai|location}
+Forecast what are the conditions in {Shanghai|location}
+Forecast what's the condition in {Shanghai|location}
+Forecast what its like in {Shanghai|location}
+Forecast what its like outside in {Shanghai|location}
+Forecast whats it like outside in {Shanghai|location}
+Forecast forecast in {Shanghai|location}
+Forecast forecast for the hour in {Shanghai|location}
+Forecast whats the forecast in {Shanghai|location}
+Forecast what the forecast for the hour is in {Shanghai|location}
+Forecast whats the forecast for the hour in {Shanghai|location}
+Forecast conditions for the hour in {Shanghai|location}
+Forecast what the conditions for the hour are in {Shanghai|location}
+Forecast what are the conditions in {Shanghai|location}
+Forecast what are the conditions for the hour in {Shanghai|location}
+
+ForecastNow weather in {Shanghai|location} now
+ForecastNow what the weather is in {Shanghai|location} now
+ForecastNow weather in {Shanghai|location} right now
+ForecastNow about the weather in {Shanghai|location} right now
+ForecastNow for the weather in {Shanghai|location} right now
+ForecastNow what the weather is like in {Shanghai|location} right now
+ForecastNow what the weathers like in {Shanghai|location} right now
+ForecastNow what the weather is like in {Shanghai|location} right now
+ForecastNow what its like in {Shanghai|location} right now
+ForecastNow what is the weather in {Shanghai|location} right now
+ForecastNow what the weather is in {Shanghai|location} right now
+ForecastNow what the conditions are in {Shanghai|location} right now
+ForecastNow what are the conditions in {Shanghai|location} right now
+ForecastNow what's the condition in {Shanghai|location} right now
+ForecastNow what its like in {Shanghai|location} right now
+ForecastNow what its like outside in {Shanghai|location} right now
+ForecastNow whats it like outside in {Shanghai|location} right now
+ForecastNow forecast in {Shanghai|location} right now
+ForecastNow forecast for the hour in {Shanghai|location} right now
+ForecastNow whats the forecast in {Shanghai|location} right now
+ForecastNow what the forecast for the hour is in {Shanghai|location} right now
+ForecastNow whats the forecast for the hour in {Shanghai|location} right now
+ForecastNow conditions for the hour in {Shanghai|location} right now
+ForecastNow what the conditions for the hour are in {Shanghai|location} right now
+ForecastNow what are the conditions in {Shanghai|location} right now
+ForecastNow what are the conditions for the hour in {Shanghai|location} right now
+
+ForecastDay weather in {Shanghai|location} for the hour
+ForecastDay about the weather in {Shanghai|location} for the hour
+ForecastDay for the weather in {Shanghai|location} for the hour
+ForecastDay what the weather is like in {Shanghai|location} for the hour
+ForecastDay what the weathers like in {Shanghai|location} for the hour
+ForecastDay what the weather is like in {Shanghai|location} for the hour
+ForecastDay what its like in {Shanghai|location} for the hour
+ForecastDay what is the weather in {Shanghai|location} for the hour
+ForecastDay what the weather is in {Shanghai|location} for the hour
+ForecastDay what the conditions are in {Shanghai|location} for the hour
+ForecastDay what are the conditions in {Shanghai|location} for the hour
+ForecastDay what's the condition in {Shanghai|location} for the hour
+ForecastDay what its like in {Shanghai|location} for the hour
+ForecastDay what its like outside in {Shanghai|location} for the hour
+ForecastDay whats it like outside in {Shanghai|location} for the hour
+ForecastDay forecast in {Shanghai|location} for the hour
+ForecastDay forecast for the hour in {Shanghai|location} for the hour
+ForecastDay whats the forecast in {Shanghai|location} for the hour
+ForecastDay what the forecast for the hour is in {Shanghai|location} for the hour
+ForecastDay whats the forecast for the hour in {Shanghai|location} for the hour
+ForecastDay conditions for the hour in {Shanghai|location} for the hour
+ForecastDay what the conditions for the hour are in {Shanghai|location} for the hour
+ForecastDay what are the conditions in {Shanghai|location} for the hour
+ForecastDay what are the conditions for the hour in {Shanghai|location} for the hour
+
+ForecastWeek weather in {Shanghai|location} for the week
+ForecastWeek about the weather in {Shanghai|location} for the week
+ForecastWeek for the weather in {Shanghai|location} for the week
+ForecastWeek what the weather is like in {Shanghai|location} for the week
+ForecastWeek what the weathers like in {Shanghai|location} for the week
+ForecastWeek what the weather is like in {Shanghai|location} for the week
+ForecastWeek what its like in {Shanghai|location} for the week
+ForecastWeek what is the weather in {Shanghai|location} for the week
+ForecastWeek what the weather is in {Shanghai|location} for the week
+ForecastWeek what the conditions are in {Shanghai|location} for the week
+ForecastWeek what are the conditions in {Shanghai|location} for the week
+ForecastWeek what's the condition in {Shanghai|location} for the week
+ForecastWeek what its like in {Shanghai|location} for the week
+ForecastWeek what its like outside in {Shanghai|location} for the week
+ForecastWeek whats it like outside in {Shanghai|location} for the week
+ForecastWeek forecast in {Shanghai|location} for the week
+ForecastWeek forecast for the hour in {Shanghai|location} for the week
+ForecastWeek whats the forecast in {Shanghai|location} for the week
+ForecastWeek what the forecast for the hour is in {Shanghai|location} for the week
+ForecastWeek whats the forecast for the hour in {Shanghai|location} for the week
+ForecastWeek conditions for the hour in {Shanghai|location} for the week
+ForecastWeek what the conditions for the hour are in {Shanghai|location} for the week
+ForecastWeek what are the conditions in {Shanghai|location} for the week
+ForecastWeek what are the conditions for the hour in {Shanghai|location} for the week
+
+ForecastWeek weather in {Shanghai|location} this week
+ForecastWeek about the weather in {Shanghai|location} this week
+ForecastWeek for the weather in {Shanghai|location} this week
+ForecastWeek what the weather is like in {Shanghai|location} this week
+ForecastWeek what the weathers like in {Shanghai|location} this week
+ForecastWeek what the weather is like in {Shanghai|location} this week
+ForecastWeek what its like in {Shanghai|location} this week
+ForecastWeek what is the weather in {Shanghai|location} this week
+ForecastWeek what the weather is in {Shanghai|location} this week
+ForecastWeek what the conditions are in {Shanghai|location} this week
+ForecastWeek what are the conditions in {Shanghai|location} this week
+ForecastWeek what's the condition in {Shanghai|location} this week
+ForecastWeek what its like in {Shanghai|location} this week
+ForecastWeek what its like outside in {Shanghai|location} this week
+ForecastWeek whats it like outside in {Shanghai|location} this week
+ForecastWeek forecast in {Shanghai|location} this week
+ForecastWeek forecast for the hour in {Shanghai|location} this week
+ForecastWeek whats the forecast in {Shanghai|location} this week
+ForecastWeek what the forecast for the hour is in {Shanghai|location} this week
+ForecastWeek whats the forecast for the hour in {Shanghai|location} this week
+ForecastWeek conditions for the hour in {Shanghai|location} this week
+ForecastWeek what the conditions for the hour are in {Shanghai|location} this week
+ForecastWeek what are the conditions in {Shanghai|location} this week
+ForecastWeek what are the conditions for the hour in {Shanghai|location} this week
